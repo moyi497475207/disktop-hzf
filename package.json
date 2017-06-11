@@ -1,0 +1,22 @@
+{
+  "name": "electron-disktop-hzf",
+  "version": "1.0.0",
+  "description": "Personal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/moyi497475207/electron-disktop-hzf",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "huzifan",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
